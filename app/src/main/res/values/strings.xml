@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Laboratorio Constraint Layout</string>
+
+    <!-- Formulario Email -->
+    <string name="to_label">To:</string>
+    <string name="email_hint">Enter email address</string>
+    <string name="subject_hint">Subject</string>
+    <string name="message_hint">Message</string>
+    <string name="send_button">Send</string>
+
+    <!-- Fuel Form -->
+    <string name="customer_name_hint">Customer Name</string>
+    <string name="fuel_type_label">Tipo de Gasolina</string>
+    <string name="gallons_hint">Gallons</string>
+    <string name="price_hint">Price per Gallon</string>
+    <string name="total_hint">Total</string>
+    <string name="register_button">Register</string>
+    <string name="back_button">Back</string>
+    <string name="validation_error">All fields are required</string>
+    <string name="success_message">Fuel request registered successfully</string>
+    <string name="invalid_number">Invalid numeric input</string>
+
+    <string-array name="fuel_types">
+        <item>Seleccione</item>
+        <item>Corriente</item>
+        <item>Diesel</item>
+        <item>Premium</item>
+    </string-array>
+</resources>
