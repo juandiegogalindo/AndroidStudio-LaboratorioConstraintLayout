@@ -68,10 +68,10 @@ public class EmailActivity extends AppCompatActivity {
         intent.putExtra(Intent.EXTRA_TEXT, emailMessage);
 
         try {
-            startActivity(Intent.createChooser(intent, "Send Email"));
+            startActivity(Intent.createChooser(intent, "Enviar email"));
         } catch (Exception e) {
             Toast.makeText(EmailActivity.this,
-                    "No email application found",
+                    "No se encontro aplicacion de email.",
                     Toast.LENGTH_SHORT).show();
         }
     }
