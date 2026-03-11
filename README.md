@@ -96,4 +96,3 @@ git clone https://github.com/USUARIO/NOMBRE_DEL_REPOSITORIO.git
 ## 7. Autor
 
 Juan Diego Galindo  
-Estudiante de Ingeniería de Sistemas  
