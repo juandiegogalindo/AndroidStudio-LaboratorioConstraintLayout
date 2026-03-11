@@ -90,7 +90,3 @@ git clone https://github.com/USUARIO/NOMBRE_DEL_REPOSITORIO.git
 <img width="1137" height="518" alt="image" src="https://github.com/user-attachments/assets/5d9c8a87-9658-4694-8f5b-b869502e84d8" />
 
 <img width="406" height="492" alt="image" src="https://github.com/user-attachments/assets/87a5a2d0-753b-4c9e-bc8a-9c2ba1489093" />
-
----
-
-## 7. Autor
